@@ -5,8 +5,33 @@
 - [IDE](#ide)
 - [Installation](#installation)
 
-## Project Description
-For a detailed project description, please refer to the [Project Description PDF](./project.pdf).
+### Lab01
+For a detailed Project description, please refer to the [Project Description PDF](./Lab01/Manual%201.pdf). <br />
+The Report for this Part is provided in the [Project Report PDF](./Lab01/MohammadMehdiNazari_9931061_Lab1.pdf).
+
+### Lab01
+For a detailed Project description, please refer to the [Project Description PDF](./Lab01/.pdf). <br />
+The Report for this Part is provided in the [Project Report PDF](./Lab01/.pdf).
+
+### Lab01
+For a detailed Project description, please refer to the [Project Description PDF](./Lab01/.pdf). <br />
+The Report for this Part is provided in the [Project Report PDF](./Lab01/.pdf).
+
+### Lab01
+For a detailed Project description, please refer to the [Project Description PDF](./Lab01/.pdf). <br />
+The Report for this Part is provided in the [Project Report PDF](./Lab01/.pdf).
+
+### Lab01
+For a detailed Project description, please refer to the [Project Description PDF](./Lab01/.pdf). <br />
+The Report for this Part is provided in the [Project Report PDF](./Lab01/.pdf).
+
+### Lab01
+For a detailed Project description, please refer to the [Project Description PDF](./Lab01/.pdf). <br />
+The Report for this Part is provided in the [Project Report PDF](./Lab01/.pdf).
+
+### Lab01
+For a detailed Project description, please refer to the [Project Description PDF](./Lab01/.pdf). <br />
+The Report for this Part is provided in the [Project Report PDF](./Lab01/.pdf).
 
 ## Built With
 - [CUDA](https://developer.nvidia.com/cuda-zone) - NVIDIA's parallel computing platform and API model.
